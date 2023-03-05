@@ -9,3 +9,27 @@
   grid-column: 1 / 4;
   grid-row: 1;
 }
+
+.box1 p{
+  font-family: "PT Sans", Calibri, Tahoma, sans-serif;
+  line-height: 1.5;
+  margin-left: 20px;
+  font-size: 3rem;
+}
+.box7 {
+  margin-left: auto; 
+  margin-right: 0;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
